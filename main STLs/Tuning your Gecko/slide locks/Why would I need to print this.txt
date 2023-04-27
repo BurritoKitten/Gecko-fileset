@@ -1,0 +1,5 @@
+Why would I need to print this?
+
+If the gap between the slide lock and the top of the frame is too large it can cause issues with poor pusher o-ring seals and how the trigger interacts with the catch.
+
+You want the gap between the slidelock and the frame to be ~1mm. 

@@ -1,0 +1,7 @@
+Why would I need to print this?
+
+If there is too much up and down wobble where the "catch housing" slots into the grooves in the frame it can cause issues with the catch not releasing. 
+
+There does need to be a small amount of wiggle so the catch housing can slide freely but too much can be detremental to the function of the blaster.
+
+If you are experiencing an issue where pulling the trigger does not release the plunger you may want to consider printing this. (I would personally print the alternate slide locks to see if those resolve the issue first, before printing this alternate catch housing)

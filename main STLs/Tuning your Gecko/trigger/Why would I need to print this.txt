@@ -1,0 +1,3 @@
+Why would I need to print this?
+
+One of the beta testeres was experiencing occasional unwwanted slam fires. He would return the slide to the front and the blaster would slam fire, even without pulling the trigger. If you experience this issue, give these slightly longer triggers a try.

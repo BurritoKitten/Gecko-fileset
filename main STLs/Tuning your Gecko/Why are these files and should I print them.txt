@@ -1,0 +1,10 @@
+Why are these files here and should I print them?
+
+Not all 3D printers are the same. There is always the possibility of some small variance in the tolerances between parts when you compare prints from 2 different machines. There is only so much I can do about this BUT one thing I can do is provide alternate parts with adjusted tolerances. 
+
+These small variance in tolerances were the cause of some trigger/catch related problems for one of my seven beta testers and the files contained in this folder were a solution for those issues.
+
+If you're Gecko isn't functioning properly after you've assembled it then these alternate files could help you "tune" your Gecko into proper functioning order. 
+
+
+
